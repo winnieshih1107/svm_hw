@@ -4,6 +4,8 @@ A Streamlit app that demonstrates the SVM kernel trick on concentric-ring data:
 adjust the kernel and hyperparameters in the sidebar and watch the 2D decision
 boundary and 3D decision-function surface update live.
 
+**Live demo:** https://wi-svm-hw.streamlit.app/
+
 ## Run locally
 
 ```bash
