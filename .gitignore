@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.claude/
+CLAUDE.md
+PROMPT_LOG.md
